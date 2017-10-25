@@ -58,7 +58,7 @@ public class MainActivity extends Activity {
         Toast.makeText(this, "onEventAsync " + event.getMsg(), Toast.LENGTH_LONG).show();
     }
 
-    public void onEvent(ThirdEvent event) {
+    public void onEvent(ThirdEvent event) { //Ö÷Ïß³Ì
         Toast.makeText(this, "OnEvent " + event.getMsg(), Toast.LENGTH_LONG).show();
     }
 
