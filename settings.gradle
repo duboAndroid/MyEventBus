@@ -1,2 +1,2 @@
-include ':singShow'
+include ':singShow', ':EventBus-master'
 include ':moreShow'
