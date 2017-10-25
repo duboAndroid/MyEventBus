@@ -1,0 +1,2 @@
+include ':singShow'
+include ':moreShow'
